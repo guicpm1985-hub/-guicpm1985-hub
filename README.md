@@ -59,20 +59,6 @@ Tecnologias relacionadas aos meus estudos e ao meu desenvolvimento na área de p
 
 </div>
 
-## 🏆 Conquistas e medalhas
-
-<div align="center">
-
-<a href="https://github.com/guicpm1985-hub?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=guicpm1985-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Conquistas do GitHub">
-</a>
-
-</div>
-
-<p align="center">
-  As conquistas exibidas dependem das atividades realizadas e dos critérios de cada plataforma.
-</p>
-
 ## 📂 Projetos
 
 Este perfil será utilizado para documentar minha evolução na programação e apresentar projetos acadêmicos e pessoais.
