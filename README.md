@@ -2,11 +2,9 @@
 
 # Guilherme Rodrigues
 
-### Estudante de Ciência da Computação | Desenvolvimento de Software
+### 🎓 Estudante de Ciência da Computação | 💻 Tecnologia e Desenvolvimento de Software
 
-<p>
-  Construindo minha trajetória em tecnologia por meio do aprendizado contínuo, da prática e do desenvolvimento de projetos.
-</p>
+Estudante da Universidade Positivo, construindo conhecimentos em programação, desenvolvimento de sistemas e soluções tecnológicas.
 
 <a href="https://github.com/guicpm1985-hub">
   <img src="https://img.shields.io/badge/GitHub-guicpm1985--hub-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -19,69 +17,71 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Olá! Sou estudante de **Ciência da Computação na Universidade Positivo**, interessado em desenvolvimento de software, programação e criação de soluções tecnológicas.
+Olá! Sou estudante de **Ciência da Computação na Universidade Positivo**, interessado em tecnologia, programação e desenvolvimento de software.
 
-Atualmente, estou construindo minha base técnica em lógica de programação, algoritmos e desenvolvimento de sistemas. Meu objetivo é transformar o conhecimento adquirido nos estudos em projetos práticos, evoluindo continuamente como desenvolvedor.
+Estou construindo minha base técnica por meio dos estudos e da prática, buscando transformar conhecimentos teóricos em projetos que resolvam problemas reais.
+
+Meu objetivo é evoluir continuamente, aprender novas ferramentas e desenvolver as habilidades necessárias para atuar profissionalmente na área de tecnologia.
 
 - 🎓 **Formação:** Ciência da Computação — Universidade Positivo.
-- 💻 **Foco atual:** fundamentos da programação e desenvolvimento de software.
-- 🧠 **Interesses:** algoritmos, inteligência artificial e bancos de dados.
-- 🚀 **Objetivo:** desenvolver projetos e construir experiência prática na área de tecnologia.
+- 💻 **Foco atual:** lógica de programação, algoritmos e desenvolvimento de software.
+- 🧠 **Interesses:** inteligência artificial, bancos de dados e desenvolvimento de sistemas.
+- 🚀 **Objetivo:** desenvolver projetos práticos e ampliar meus conhecimentos técnicos.
 - 📍 **Localização:** Curitiba, Paraná, Brasil.
 
 ## 🎯 Objetivos profissionais
 
-- Fortalecer meus conhecimentos em lógica de programação e algoritmos.
+- Fortalecer os fundamentos de programação e pensamento computacional.
 - Desenvolver projetos acadêmicos e pessoais.
-- Aprender linguagens, ferramentas e boas práticas de desenvolvimento.
+- Aprender boas práticas de desenvolvimento de software.
 - Explorar diferentes áreas da Tecnologia da Informação.
-- Evoluir na construção de aplicações e soluções para problemas reais.
+- Construir uma trajetória profissional baseada em aprendizado contínuo e experiência prática.
 
 ## 🛠️ Tecnologias e ferramentas
 
-Estas são as tecnologias e ferramentas relacionadas aos meus estudos. A lista será ampliada conforme eu desenvolver novos conhecimentos e projetos.
+Tecnologias relacionadas aos meus estudos e ao meu desenvolvimento na área de programação.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,mysql&theme=dark" alt="Tecnologias e ferramentas em estudo">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,mysql&theme=dark" alt="Tecnologias e ferramentas">
 
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guicpm1985-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guicpm1985-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicpm1985-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicpm1985-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
 
 </div>
 
-## 🏅 Conquistas e medalhas
+## 🏆 Conquistas e medalhas
 
 <div align="center">
 
 <a href="https://github.com/guicpm1985-hub?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=guicpm1985-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Conquistas do GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=guicpm1985-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Conquistas do GitHub">
 </a>
 
 </div>
 
 <p align="center">
-  As conquistas são exibidas conforme os critérios de cada plataforma e a atividade real da conta.
+  As conquistas exibidas dependem das atividades realizadas e dos critérios de cada plataforma.
 </p>
 
-## 📌 Projetos
+## 📂 Projetos
 
-Nesta seção, vou destacar projetos acadêmicos e pessoais que demonstrem minha evolução, capacidade de resolver problemas e aplicação prática dos conhecimentos adquiridos.
+Este perfil será utilizado para documentar minha evolução na programação e apresentar projetos acadêmicos e pessoais.
 
-**Projetos em destaque:** em atualização conforme o desenvolvimento e a publicação dos meus trabalhos.
+Pretendo destacar projetos que demonstrem a aplicação prática dos conhecimentos adquiridos, a resolução de problemas e o desenvolvimento de novas habilidades.
 
-> Dica: fixe nesta seção, no próprio perfil do GitHub, os repositórios que melhor representam seu aprendizado.
+> Os projetos serão adicionados a esta seção conforme forem desenvolvidos e publicados.
 
-## 🌐 Contato e redes profissionais
+## 🌐 Contato e redes sociais
 
 <div align="center">
 
@@ -89,10 +89,10 @@ Nesta seção, vou destacar projetos acadêmicos e pessoais que demonstrem minha
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/grodrigues006/">
-  <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
 </a>
 <a href="https://www.youtube.com/@GuilhermeRodrigues-dev">
-  <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-Inscrever--se-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
 </a>
 
 </div>
@@ -101,6 +101,6 @@ Nesta seção, vou destacar projetos acadêmicos e pessoais que demonstrem minha
 
 <div align="center">
 
-*Em constante evolução: aprendendo, praticando e transformando conhecimento em soluções.*
+**Aprendendo continuamente. Desenvolvendo habilidades. Construindo o futuro na tecnologia.**
 
 </div>
